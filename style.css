@@ -1,0 +1,19 @@
+body {
+
+    
+
+       
+        background-image: url('background-image.png');
+    
+     
+   
+} /* اضافة صورة للباك قراوند*/
+
+form {
+   
+    position: sticky;
+        margin: 500px;
+       width: 1000px;
+height: 300px;
+
+}
